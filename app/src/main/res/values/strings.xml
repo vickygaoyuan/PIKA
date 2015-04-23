@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PIKA</string>
+    <string name="title_section1">PIKA</string>
+    <string name="title_section2">PIKA</string>
+    <string name="title_section3">PIKA</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example"></string>
+    <string name="action_settings">PIKA</string>
+    <string name="title_activity_new_task">PIKA</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_signup">PIKA</string>
+    <string name="title_activity_login">PIKA</string>
+    <string name="title_activity_dbhelper">DBHelper</string>
+    <string name="title_activity_log_tab">PIKA</string>
+    <string name="title_activity_detail_check">DetailCheckActivity</string>
+    <string name="title_activity_success_submitctivity">PIKA</string>
+    <string name="title_activity_success_submit">PIKA</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_fakecard">PIKA</string>
+    <string name="title_activity_infocard">PIKA</string>
+    <string name="title_activity_server_access">ServerAccess</string>
+
+</resources>
